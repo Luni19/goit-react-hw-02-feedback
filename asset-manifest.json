@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/Luni19/goit-react-hw-02-feedback/static/js/main.1a71afdd.js",
+    "main.js": "/Luni19/goit-react-hw-02-feedback/static/js/main.ea617352.js",
     "index.html": "/Luni19/goit-react-hw-02-feedback/index.html",
-    "main.1a71afdd.js.map": "/Luni19/goit-react-hw-02-feedback/static/js/main.1a71afdd.js.map"
+    "main.ea617352.js.map": "/Luni19/goit-react-hw-02-feedback/static/js/main.ea617352.js.map"
   },
   "entrypoints": [
-    "static/js/main.1a71afdd.js"
+    "static/js/main.ea617352.js"
   ]
 }
